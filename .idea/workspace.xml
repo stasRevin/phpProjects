@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="512a0e07-31f5-4e39-8320-c25fc5c137ba" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch01/final/aliens/fang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch01/final/aliens/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch01/final/aliens/report.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch01/final/aliens/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch01/initial/aliens/fang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch01/initial/aliens/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch01/initial/aliens/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch02/final/aliens/fang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch02/final/aliens/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch02/final/aliens/report.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch02/final/aliens/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch02/final/aliens_abduction.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch02/initial/aliens/fang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch02/initial/aliens/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch02/initial/aliens/report.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch02/initial/aliens/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch03/final/email_list.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch03/final/makemeelvis/addemail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch03/final/makemeelvis/addemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch03/final/makemeelvis/blankface.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch03/final/makemeelvis/elvislogo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch03/final/makemeelvis/removeemail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch03/final/makemeelvis/removeemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch03/final/makemeelvis/sendemail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch03/final/makemeelvis/sendemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch03/final/makemeelvis/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch03/initial/makemeelvis/addemail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch03/initial/makemeelvis/blankface.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch03/initial/makemeelvis/elvislogo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch03/initial/makemeelvis/removeemail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch03/initial/makemeelvis/sendemail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch03/initial/makemeelvis/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch03/page128/addemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch03/page144/sendemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch03/page152/removeemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch04/final/email_list.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch04/final/makemeelvis/addemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch04/final/makemeelvis/blankface.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch04/final/makemeelvis/elvislogo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch04/final/makemeelvis/removeemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch04/final/makemeelvis/sendemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch04/final/makemeelvis/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch04/initial/email_list.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch04/initial/makemeelvis/addemail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch04/initial/makemeelvis/addemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch04/initial/makemeelvis/blankface.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch04/initial/makemeelvis/elvislogo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch04/initial/makemeelvis/removeemail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch04/initial/makemeelvis/removeemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch04/initial/makemeelvis/sendemail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch04/initial/makemeelvis/sendemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch04/initial/makemeelvis/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/final/guitarwars.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/final/guitarwars/addscore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/final/guitarwars/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/final/guitarwars/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/final/guitarwars/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/final/guitarwars/images/belitasscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/final/guitarwars/images/jacobsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/final/guitarwars/images/jeanpaulsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/final/guitarwars/images/kennysscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/final/guitarwars/images/nevilsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/final/guitarwars/images/pacosscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/final/guitarwars/images/phizsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/final/guitarwars/images/unverified.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/final/guitarwars/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/final/guitarwars/removescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/final/guitarwars/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/initial/guitarwars.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/initial/guitarwars/addscore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/initial/guitarwars/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/initial/guitarwars/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/page256/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/page256/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/page275/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch05/page289/removescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/addscore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/approvescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/authorize.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/images/belitasscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/images/biffsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/images/jacobsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/images/jacobsscore2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/images/jeanpaulsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/images/kennysscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/images/leddysscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/images/nevilsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/images/pacosscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/images/pezsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/images/phizsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/images/tbonesscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/images/unverified.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/removescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/final/guitarwars/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/initial/guitarwars.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/initial/guitarwars/addscore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/initial/guitarwars/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/initial/guitarwars/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/initial/guitarwars/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/initial/guitarwars/images/belitasscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/initial/guitarwars/images/jacobsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/initial/guitarwars/images/jeanpaulsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/initial/guitarwars/images/kennysscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/initial/guitarwars/images/nevilsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/initial/guitarwars/images/pacosscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/initial/guitarwars/images/phizsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/initial/guitarwars/images/unverified.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/initial/guitarwars/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/initial/guitarwars/removescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/initial/guitarwars/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/page315/authorize.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch06/page324/approvescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/editprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/images/alexpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/images/belitapic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/images/dierdrepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/images/ethelpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/images/jasonpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/images/johanpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/images/nevilpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/images/nopic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/images/oscarpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/images/paulpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/images/rubypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/images/sidneypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/images/susannahpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/navmenu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/startsession.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch/viewprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/final/mismatch_user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/editprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/images/alexpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/images/belitapic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/images/dierdrepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/images/ethelpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/images/jasonpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/images/johanpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/images/nevilpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/images/nopic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/images/oscarpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/images/paulpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/images/rubypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/images/sidneypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/images/susannahpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch/viewprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/initial/mismatch_user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/page424/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/page424/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/page424/navmenu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07.5/page424/startsession.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/editprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/images/alexpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/images/belitapic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/images/dierdrepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/images/ethelpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/images/jasonpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/images/johanpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/images/nevilpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/images/nopic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/images/oscarpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/images/paulpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/images/rubypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/images/sidneypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/images/susannahpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch/viewprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/final/mismatch_user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/initial/mismatch/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/initial/mismatch/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/initial/mismatch/editprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/initial/mismatch/images/alexpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/initial/mismatch/images/belitapic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/initial/mismatch/images/dierdrepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/initial/mismatch/images/ethelpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/initial/mismatch/images/jasonpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/initial/mismatch/images/johanpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/initial/mismatch/images/nevilpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/initial/mismatch/images/nopic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/initial/mismatch/images/oscarpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/initial/mismatch/images/paulpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/initial/mismatch/images/sidneypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/initial/mismatch/images/susannahpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/initial/mismatch/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/initial/mismatch/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/initial/mismatch/viewprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/initial/mismatch_user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/page361/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/page369/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch07/page386/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/editprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/images/alexpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/images/belitapic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/images/dierdrepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/images/elmerpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/images/ethelpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/images/jasonpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/images/johanpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/images/nevilpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/images/nopic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/images/oscarpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/images/owenpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/images/paulpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/images/rubypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/images/sidneypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/images/susannahpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/mymismatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/navmenu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/questionnaire.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/startsession.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch/viewprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch_category.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch_response.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch_topic.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/final/mismatch_user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/editprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/images/alexpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/images/belitapic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/images/dierdrepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/images/ethelpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/images/jasonpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/images/johanpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/images/nevilpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/images/nopic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/images/oscarpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/images/paulpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/images/rubypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/images/sidneypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/images/susannahpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/navmenu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/startsession.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch/viewprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/initial/mismatch_user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/page443/mismatch_response.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/page443/mismatch_topic.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/page457/questionnaire.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch08/page493/mymismatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch09/final/riskyjobs.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch09/final/riskyjobs/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch09/final/riskyjobs/riskyjobs_fireman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch09/final/riskyjobs/riskyjobs_title.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch09/final/riskyjobs/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch09/final/riskyjobs/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch09/final/riskyjobs/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch09/initial/riskyjobs.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch09/initial/riskyjobs/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch09/initial/riskyjobs/riskyjobs_fireman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch09/initial/riskyjobs/riskyjobs_title.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch09/initial/riskyjobs/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch09/initial/riskyjobs/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch09/initial/riskyjobs/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch10/final/riskyregistration/registration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch10/final/riskyregistration/riskyjobs_fireman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch10/final/riskyregistration/riskyjobs_title.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch10/final/riskyregistration/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch10/initial/riskyregistration/registration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch10/initial/riskyregistration/riskyjobs_fireman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch10/initial/riskyregistration/riskyjobs_title.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch10/initial/riskyregistration/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/Courier New Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/addscore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/approvescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/authorize.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/captcha.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/images/belitasscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/images/biffsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/images/jacobsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/images/jacobsscore2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/images/jeanpaulsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/images/kennysscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/images/leddysscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/images/nevilsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/images/pacosscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/images/pezsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/images/phizsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/images/tbonesscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/images/unverified.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/removescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/guitarwars/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/editprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/images/alexpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/images/belitapic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/images/dierdrepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/images/elmerpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/images/ethelpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/images/jasonpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/images/johanpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/images/nevilpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/images/nopic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/images/oscarpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/images/owenpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/images/paulpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/images/rubypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/images/sidneypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/images/susannahpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/mymismatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/navmenu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/questionnaire.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/startsession.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch/viewprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch_category.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch_response.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch_topic.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/final/mismatch_user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/addscore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/approvescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/authorize.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/images/belitasscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/images/biffsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/images/classhates.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/images/frowneycentral.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/images/headlastlabs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/images/jacobsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/images/jacobsscore2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/images/jeanpaulsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/images/kennysscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/images/leddysscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/images/nevilsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/images/pacosscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/images/pezsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/images/phizsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/images/tbonesscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/images/unverified.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/removescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/guitarwars/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/editprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/images/alexpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/images/belitapic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/images/dierdrepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/images/elmerpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/images/ethelpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/images/jasonpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/images/johanpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/images/nevilpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/images/nopic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/images/oscarpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/images/owenpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/images/paulpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/images/rubypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/images/sidneypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/images/susannahpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/mymismatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/navmenu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/questionnaire.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/startsession.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch/viewprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch_category.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch_response.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch_topic.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/initial/mismatch_user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/page622/graphics.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/page623/captcha.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch11/page646/mymismatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch12/final/aliens/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch12/final/aliens/fang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch12/final/aliens/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch12/final/aliens/newsfeed.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch12/final/aliens/report.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch12/final/aliens/rssicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch12/final/aliens/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch12/final/aliens/youtube.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch12/final/aliens_abduction.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch12/initial/aliens/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch12/initial/aliens/fang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch12/initial/aliens/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch12/initial/aliens/newsfeed.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch12/initial/aliens/report.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch12/initial/aliens/rssicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch12/initial/aliens/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch12/initial/aliens_abduction.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch12/page674/newsfeed.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/ch12/page706/youtube.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch01/final/aliens/fang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch01/final/aliens/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch01/final/aliens/report.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch01/final/aliens/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch01/initial/aliens/fang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch01/initial/aliens/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch01/initial/aliens/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch02/final/aliens/fang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch02/final/aliens/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch02/final/aliens/report.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch02/final/aliens/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch02/final/aliens_abduction.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch02/initial/aliens/fang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch02/initial/aliens/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch02/initial/aliens/report.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch02/initial/aliens/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch03/final/email_list.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch03/final/makemeelvis/addemail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch03/final/makemeelvis/addemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch03/final/makemeelvis/blankface.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch03/final/makemeelvis/elvislogo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch03/final/makemeelvis/removeemail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch03/final/makemeelvis/removeemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch03/final/makemeelvis/sendemail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch03/final/makemeelvis/sendemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch03/final/makemeelvis/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch03/initial/makemeelvis/addemail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch03/initial/makemeelvis/blankface.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch03/initial/makemeelvis/elvislogo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch03/initial/makemeelvis/removeemail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch03/initial/makemeelvis/sendemail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch03/initial/makemeelvis/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch03/page128/addemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch03/page144/sendemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch03/page152/removeemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch04/final/email_list.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch04/final/makemeelvis/addemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch04/final/makemeelvis/blankface.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch04/final/makemeelvis/elvislogo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch04/final/makemeelvis/removeemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch04/final/makemeelvis/sendemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch04/final/makemeelvis/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch04/initial/email_list.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch04/initial/makemeelvis/addemail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch04/initial/makemeelvis/addemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch04/initial/makemeelvis/blankface.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch04/initial/makemeelvis/elvislogo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch04/initial/makemeelvis/removeemail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch04/initial/makemeelvis/removeemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch04/initial/makemeelvis/sendemail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch04/initial/makemeelvis/sendemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch04/initial/makemeelvis/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/final/guitarwars.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/final/guitarwars/addscore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/final/guitarwars/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/final/guitarwars/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/final/guitarwars/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/final/guitarwars/images/belitasscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/final/guitarwars/images/jacobsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/final/guitarwars/images/jeanpaulsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/final/guitarwars/images/kennysscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/final/guitarwars/images/nevilsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/final/guitarwars/images/pacosscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/final/guitarwars/images/phizsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/final/guitarwars/images/unverified.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/final/guitarwars/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/final/guitarwars/removescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/final/guitarwars/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/initial/guitarwars.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/initial/guitarwars/addscore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/initial/guitarwars/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/initial/guitarwars/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/page256/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/page256/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/page275/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch05/page289/removescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/addscore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/approvescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/authorize.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/images/belitasscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/images/biffsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/images/jacobsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/images/jacobsscore2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/images/jeanpaulsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/images/kennysscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/images/leddysscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/images/nevilsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/images/pacosscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/images/pezsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/images/phizsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/images/tbonesscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/images/unverified.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/removescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/final/guitarwars/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/initial/guitarwars.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/initial/guitarwars/addscore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/initial/guitarwars/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/initial/guitarwars/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/initial/guitarwars/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/initial/guitarwars/images/belitasscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/initial/guitarwars/images/jacobsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/initial/guitarwars/images/jeanpaulsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/initial/guitarwars/images/kennysscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/initial/guitarwars/images/nevilsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/initial/guitarwars/images/pacosscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/initial/guitarwars/images/phizsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/initial/guitarwars/images/unverified.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/initial/guitarwars/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/initial/guitarwars/removescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/initial/guitarwars/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/page315/authorize.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch06/page324/approvescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/editprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/images/alexpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/images/belitapic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/images/dierdrepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/images/ethelpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/images/jasonpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/images/johanpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/images/nevilpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/images/nopic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/images/oscarpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/images/paulpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/images/rubypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/images/sidneypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/images/susannahpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/navmenu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/startsession.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch/viewprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/final/mismatch_user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/editprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/images/alexpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/images/belitapic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/images/dierdrepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/images/ethelpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/images/jasonpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/images/johanpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/images/nevilpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/images/nopic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/images/oscarpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/images/paulpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/images/rubypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/images/sidneypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/images/susannahpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch/viewprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/initial/mismatch_user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/page424/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/page424/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/page424/navmenu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07.5/page424/startsession.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/editprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/images/alexpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/images/belitapic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/images/dierdrepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/images/ethelpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/images/jasonpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/images/johanpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/images/nevilpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/images/nopic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/images/oscarpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/images/paulpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/images/rubypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/images/sidneypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/images/susannahpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch/viewprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/final/mismatch_user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/initial/mismatch/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/initial/mismatch/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/initial/mismatch/editprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/initial/mismatch/images/alexpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/initial/mismatch/images/belitapic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/initial/mismatch/images/dierdrepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/initial/mismatch/images/ethelpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/initial/mismatch/images/jasonpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/initial/mismatch/images/johanpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/initial/mismatch/images/nevilpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/initial/mismatch/images/nopic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/initial/mismatch/images/oscarpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/initial/mismatch/images/paulpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/initial/mismatch/images/sidneypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/initial/mismatch/images/susannahpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/initial/mismatch/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/initial/mismatch/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/initial/mismatch/viewprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/initial/mismatch_user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/page361/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/page369/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch07/page386/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/editprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/images/alexpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/images/belitapic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/images/dierdrepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/images/elmerpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/images/ethelpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/images/jasonpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/images/johanpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/images/nevilpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/images/nopic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/images/oscarpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/images/owenpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/images/paulpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/images/rubypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/images/sidneypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/images/susannahpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/mymismatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/navmenu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/questionnaire.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/startsession.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch/viewprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch_category.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch_response.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch_topic.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/final/mismatch_user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/editprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/images/alexpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/images/belitapic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/images/dierdrepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/images/ethelpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/images/jasonpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/images/johanpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/images/nevilpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/images/nopic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/images/oscarpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/images/paulpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/images/rubypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/images/sidneypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/images/susannahpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/navmenu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/startsession.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch/viewprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/initial/mismatch_user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/page443/mismatch_response.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/page443/mismatch_topic.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/page457/questionnaire.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch08/page493/mymismatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch09/final/riskyjobs.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch09/final/riskyjobs/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch09/final/riskyjobs/riskyjobs_fireman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch09/final/riskyjobs/riskyjobs_title.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch09/final/riskyjobs/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch09/final/riskyjobs/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch09/final/riskyjobs/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch09/initial/riskyjobs.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch09/initial/riskyjobs/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch09/initial/riskyjobs/riskyjobs_fireman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch09/initial/riskyjobs/riskyjobs_title.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch09/initial/riskyjobs/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch09/initial/riskyjobs/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch09/initial/riskyjobs/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch10/final/riskyregistration/registration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch10/final/riskyregistration/riskyjobs_fireman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch10/final/riskyregistration/riskyjobs_title.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch10/final/riskyregistration/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch10/initial/riskyregistration/registration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch10/initial/riskyregistration/riskyjobs_fireman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch10/initial/riskyregistration/riskyjobs_title.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch10/initial/riskyregistration/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/Courier New Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/addscore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/approvescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/authorize.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/captcha.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/images/belitasscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/images/biffsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/images/jacobsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/images/jacobsscore2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/images/jeanpaulsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/images/kennysscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/images/leddysscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/images/nevilsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/images/pacosscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/images/pezsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/images/phizsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/images/tbonesscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/images/unverified.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/removescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/guitarwars/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/editprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/images/alexpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/images/belitapic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/images/dierdrepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/images/elmerpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/images/ethelpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/images/jasonpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/images/johanpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/images/nevilpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/images/nopic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/images/oscarpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/images/owenpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/images/paulpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/images/rubypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/images/sidneypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/images/susannahpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/mymismatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/navmenu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/questionnaire.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/startsession.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch/viewprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch_category.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch_response.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch_topic.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/final/mismatch_user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/addscore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/approvescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/authorize.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/images/belitasscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/images/biffsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/images/classhates.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/images/frowneycentral.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/images/headlastlabs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/images/jacobsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/images/jacobsscore2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/images/jeanpaulsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/images/kennysscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/images/leddysscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/images/nevilsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/images/pacosscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/images/pezsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/images/phizsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/images/tbonesscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/images/unverified.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/removescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/guitarwars/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/editprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/images/alexpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/images/belitapic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/images/dierdrepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/images/elmerpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/images/ethelpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/images/jasonpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/images/johanpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/images/nevilpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/images/nopic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/images/oscarpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/images/owenpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/images/paulpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/images/rubypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/images/sidneypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/images/susannahpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/mymismatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/navmenu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/questionnaire.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/startsession.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch/viewprofile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch_category.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch_response.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch_topic.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/initial/mismatch_user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/page622/graphics.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/page623/captcha.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch11/page646/mymismatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch12/final/aliens/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch12/final/aliens/fang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch12/final/aliens/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch12/final/aliens/newsfeed.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch12/final/aliens/report.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch12/final/aliens/rssicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch12/final/aliens/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch12/final/aliens/youtube.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch12/final/aliens_abduction.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch12/initial/aliens/connectvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch12/initial/aliens/fang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch12/initial/aliens/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch12/initial/aliens/newsfeed.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch12/initial/aliens/report.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch12/initial/aliens/rssicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch12/initial/aliens/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch12/initial/aliens_abduction.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch12/page674/newsfeed.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/examples/ch12/page706/youtube.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9780596006303-master/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/northwind.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/helloWorld/.idea/helloWorld.php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/helloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/applications.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/bitnami.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/de/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/de/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/de/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/de/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/de/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/docs/access-phpmyadmin-remotely.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/docs/access-phpmyadmin-remotely.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/docs/access-phpmyadmin-remotely.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/docs/images/access-phpmyadmin-remotely/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/docs/images/reset-mysql-password/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/docs/images/reset-mysql-password/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/docs/reset-mysql-password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/docs/reset-mysql-password.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/docs/reset-mysql-password.pdfmarks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/es/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/es/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/es/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/es/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/es/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/fr/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/fr/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/fr/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/fr/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/fr/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/hu/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/hu/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/hu/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/hu/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/hu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/addons-video-thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/addons/beetailer-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/addons/elegantthemes-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/addons/rockettheme-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/addons/sugaroutfitters-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/addons/templatemonster-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/addons/themeforest-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/addons/woothemes-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/addons/wpmu-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/apple-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/bitnami-xampp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/bitnami-xampp/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/bitnami-xampp/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/bitnami-xampp/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/bitnami-xampp/image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/bitnami-xampp/image5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/bitnami-xampp/image6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/bitnami-xampp/image7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/download-xampp-vm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/heartbleed-affected-osx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/heartbleed-affected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/heartbleed-fixed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/phpinfo-section-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/phpinfo-section-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/xampp-vm-cakephp-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/xampp-vm-cakephp-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/xampp-vm-cakephp-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/xampp-vm-cakephp-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/xampp-vm-cakephp-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/xampp-vm-cakephp-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/xampp-vm-cakephp-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/xampp-vm-cakephp-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/xampp-vm-cakephp-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/xampp-vm-cakephp-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/xampp-vm-cakephp-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/xampp-vm-general.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/xampp-vm-manager.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/xampp-vm-network.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/xampp-vm-php-finder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/xampp-vm-php-output.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/xampp-vm-tray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/blog/xampp-vm-volumes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/fastly-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/fastly-logo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/flags/cn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/flags/de.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/flags/en.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/flags/es.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/flags/fr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/flags/hu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/flags/it.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/flags/jp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/flags/pl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/flags/pt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/flags/pt_br.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/flags/ro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/flags/ru.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/flags/tr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/flags/ur.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/flags/zh_cn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/flags/zh_tw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/linux-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/middleman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/pdf-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/screenshots/xampp-linux-start.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/screenshots/xampp-macosx-download-installer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/screenshots/xampp-macosx-launch-credentials.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/screenshots/xampp-macosx-run-installer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/screenshots/xampp-macosx-stack-manager-general.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/screenshots/xampp-macosx-stack-manager-network.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/screenshots/xampp-macosx-stack-manager-services.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/screenshots/xampp-macosx-stack-manager-volumes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/screenshots/xampp-macosx-stack-manager.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/screenshots/xampp-macosx-start.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/screenshots/xampp-macosx-wordpress.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/screenshots/xampp-windows-start.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/social-icons-large.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/social-icons-large@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/social-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/social-icons@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/sourceforge-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/sourceforge-logo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/stack-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/stack-icons@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/stamps/stamp-173x38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/stamps/stamp-80x15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/stamps/stamp-88x31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/team/beltran-rueda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/team/daniel-lopez.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/team/kai-seidler.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/team/kay-vogelgesang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/team/paul-hinz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/twitter-bird.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/windows-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/xampp-cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/xampp-cloud@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/xampp-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/images/xampp-newsletter-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/it/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/it/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/it/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/it/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/it/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/javascripts/all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/javascripts/modernizr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/jp/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/jp/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/jp/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/jp/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/jp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/phpinfo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/pl/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/pl/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/pl/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/pl/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/pl/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/pt_br/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/pt_br/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/pt_br/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/pt_br/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/pt_br/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/ro/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/ro/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/ro/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/ro/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/ro/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/ru/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/ru/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/ru/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/ru/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/ru/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/stylesheets/all-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/stylesheets/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/stylesheets/asciidoctor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/stylesheets/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/tr/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/tr/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/tr/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/tr/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/tr/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/ur/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/ur/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/ur/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/ur/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/ur/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/zh_cn/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/zh_cn/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/zh_cn/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/zh_cn/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/zh_cn/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/zh_tw/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/zh_tw/howto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/zh_tw/howto_platform_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/zh_tw/howto_shared_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/dashboard/zh_tw/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/helloWorld/.idea/helloWorld.php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/helloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/helloWorld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/helloWorld/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/helloWorld/helloWorld.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/helloWorld/helloWorld/.idea/helloWorld.php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/helloWorld/helloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/helloWorld/helloWorld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/helloWorld/helloWorld/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/helloWorld/helloWorld/helloWorld.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/helloWorld/helloWorld/helloWorld/.idea/helloWorld.php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/helloWorld/helloWorld/helloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/helloWorld/helloWorld/helloWorld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/helloWorld/helloWorld/helloWorld/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/helloWorld/helloWorld/helloWorld/helloWorld.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/img/module_table_bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/img/module_table_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/htdocs/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week1/newFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week2/.idea/week2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week2/aliens/fang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week2/aliens/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week2/aliens/report.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week2/aliens/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week2/datatypes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week2/fullnameForm/databaseLab.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/week2/fullnameForm/fullnameForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/project1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/helloWorld/.idea/helloWorld.php.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gitFiles.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/helloWorld/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/helloWorld/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project1/week1/helloWorld/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/helloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project1/week1/helloWorld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/helloWorld/helloWorld.php" beforeDir="false" afterPath="$PROJECT_DIR$/project1/week1/helloWorld/helloWorld.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="report.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project1/week2/aliens/report.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="report.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project1/week2/aliens/report.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>@</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/project1/week2/aliens/report.html" />
+        <option value="$PROJECT_DIR$/project1/week2/aliens/report.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1001" />
+    <option name="y" value="213" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gitFiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gitFiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="project1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gitFiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="project1" type="462c0819:PsiDirectoryNode" />
+              <item name="week2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gitFiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="project1" type="462c0819:PsiDirectoryNode" />
+              <item name="week2" type="462c0819:PsiDirectoryNode" />
+              <item name="aliens" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gitFiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="week2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="512a0e07-31f5-4e39-8320-c25fc5c137ba" name="Default" comment="" />
+      <created>1526781772129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526781772129</updated>
+      <workItem from="1526781773224" duration="1071000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1071000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1001" y="213" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/project1/week2/aliens/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/week2/aliens/report.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
