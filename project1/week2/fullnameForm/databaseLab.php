@@ -8,7 +8,7 @@
         $first_name = $_POST['firstname'];
         $last_name = $_POST['lastname'];
 
-        $dbc = mysqli_connect('localhost', 'uroot', 'student', 'srevin')
+        $dbc = mysqli_connect('127.0.0.1', 'root', '', 'srevin')
             or die('Error connecting to MySQL server.');
 
         $query = "INSERT INTO fullname (first_name, last_name) " .
