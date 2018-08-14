@@ -4,7 +4,7 @@
 
   <target name="deploy">
     <copy todir="${xampp_home}">
-      <fileset dir="${project_home}/project1"/>
+      <fileset dir="${project_home}/project2"/>
     </copy>
   </target>
 </project>

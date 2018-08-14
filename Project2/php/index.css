@@ -1,0 +1,197 @@
+.base {
+
+    width: 100%;
+    position: relative;
+
+}
+
+.mainImage {
+
+    width: 80%;
+
+}
+
+.profileImage {
+
+
+    width: 20%;
+    margin: 1em;
+    transform: rotate(180deg);
+
+
+}
+
+
+table#userWorkout {
+
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+th, td {
+
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+
+
+}
+
+
+.userWorkout:hover {
+
+    background-color: #f5f5f5;
+}
+
+.background-image {
+
+    position: absolute;
+    background-image: url("images/bicycle.jpg");
+
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    -webkit-filter: blur(10px);
+    -moz-filter: blur(10px);
+    -o-filter: blur(10px);
+    -ms-filter: blur(10px);
+    filter: blur(10px);
+    z-index: -1;
+
+
+
+}
+
+table#userInfo {
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.container {
+
+    position: relative;
+    width: 80%;
+    background-color: azure;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid green 1px;
+    min-height: 80em;
+    z-index: 1;
+    text-align: center;
+
+}
+
+div#logExerciseForm {
+
+    width: 50%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div#logExerciseForm > form, div#logExerciseForm > h3 {
+
+    text-align: left;
+
+}
+
+.col-25 {
+
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+
+}
+
+.col-75 {
+
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+
+}
+
+div#logExerciseForm:after {
+    content: "";
+    display: table;
+    clear: both;
+
+}
+
+
+
+
+
+
+img#bikesOnCoast {
+
+    width: 90%;
+    margin: 5%;
+
+
+}
+
+ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #3366cccc;
+}
+
+li {
+    float: left;
+
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+
+}
+
+li a:hover {
+
+    background-color: #3399cc;
+}
+
+
+@media (max-width: 800px) {
+
+    .container {
+
+        width: 100%;
+    }
+
+    .background-image {
+
+        content: none;
+        background-image: none;
+    }
+
+    .profileImage {
+
+        width: 50%;
+
+    }
+
+    .col25, .col-75, input[type=submit] {
+
+        width: 100%;
+        margin-top: 5px;
+    }
+
+}

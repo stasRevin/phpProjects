@@ -24,7 +24,7 @@
 
  echo "<!DOCTYPE html>";
  echo "<html>";
- echo "<head><title>Result</title><link rel=\"stylesheet\" type=\"text/css\" href=\"index.css\"></head>";
+ echo "<head><title>Result</title><link rel=\"stylesheet\" type=\"text/css\" href=\"result.css\"></head>";
  echo "<body>";
  echo "Enter a  noun: $noun<br/>" .
       "Enter a verb: $verb<br/>" .
