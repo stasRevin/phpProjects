@@ -25,25 +25,32 @@
         $gender = $_POST['gender'];
         $weight = $_POST['weight'];
         $password = $_POST['password'];
+        $passwordConfirmation = $_POST['passwordConfirm'];
         $image = $_FILES['image']['name'];
         $image_type = $_FILES['image']['type'];
         $image_size = $_FILES['image']['size'];
 
-        $user_entries = array("username", "firstName", "lastName", "birthdate",
-                              "gender", "weight", "password");
+        $user_variables = array("username", "firstName", "lastName", "birthdate",
+                              "gender", "weight", "password", "passwordConfirmation");
+
+        $user_entries = compact($user_variables);
 
         $_isFormComplete = true;
 
+        error_log("user_entries count: " . count($user_entries));
+
         foreach($user_entries as $entry)
         {
+            error_log("entry: " . $entry);
             if (empty($entry))
             {
+                error_log("Current empty entry: " . $entry);
                 $_isFormComplete = false;
                 break;
             }
         }
 
-        if ($_isFormComplete)
+        if ($_isFormComplete && $password == $passwordConfirmation)
         {
             $firstName = mysqli_real_escape_string($dbc, trim($firstName));
             $lastName = mysqli_real_escape_string($dbc, trim($lastName));
@@ -125,7 +132,8 @@
         }
         else
         {
-            echo 'Please complete all the fields in the registration form.';
+            echo 'Please complete all the fields in the registration form '
+                . 'including password and password confirmation.';
         }
 
     }
@@ -136,27 +144,34 @@
 
     <div class="container">
       <label for="username"><b>Username</b></label>
-      <input type="text" placeholder="User Name" name="username">
+      <input type="text" placeholder="User Name" name="username"
+            value="<?php if (!empty($username)) {echo $username;} ?>">
 
       <label for="firstName"><b>First Name</b></label>
-      <input type="text" placeholder="First Name" name="firstName">
+      <input type="text" placeholder="First Name" name="firstName"
+            value="<?php if (!empty($firstName)) {echo $firstName;} ?>">
 
       <label for="lastName"><b>Last Name</b></label>
-      <input type="text" placeholder="Last Name" name="lastName">
+      <input type="text" placeholder="Last Name" name="lastName"
+            value="<?php if (!empty($lastName)) {echo $lastName;} ?>">
 
       <label for="birthdate"><b>Birthdate</b></label><br/>
-      <input type="date" name="birthdate" min="1900-01-01" max="2100-01-01" placeholder="birthdate">
+      <input type="date" name="birthdate" min="1900-01-01" max="2100-01-01" placeholder="birthdate"
+        value="<?php if (!empty($birthdate)) {echo $birthdate;} ?>">
 
       <br/><br/>
 
       <label for="gender"><b>Gender</b></label><br/>
-      <input type="radio" name="gender" value="f" checked>Female<br/>
-      <input type="radio" name="gender" value="m">Male
+      <input type="radio" name="gender" value="f"
+            <?php if (empty($gender) || ($gender == "f")) {echo "checked";}?>>Female<br/>
+      <input type="radio" name="gender" value="m"
+            <?php if (!empty($gender) && ($gender == "m")) {echo "checked";} ?>>Male
 
       <br/><br/>
 
       <label for="weight"><b>Weight (in pounds)</b></label><br/>
-      <input type="number" name="weight" placeholder="Weight in pounds">
+      <input type="number" name="weight" placeholder="Weight in pounds"
+            value="<?php if (!empty($weight)) {echo $weight;}?>">
 
       <br/><br/>
 
@@ -168,6 +183,13 @@
 
       <label for="password"><b>Password</b></label>
       <input type="password" name="password" placeholder="Password">
+
+      <br/><br/>
+
+      <label for="passwordConfirm"><b>Confirm Password</b></label>
+      <input type="password" name="passwordConfirm" placeholder="Retype Password">
+
+      <br/><br/>
 
       <input type="submit" value="Register" name="submit" class="btn">
 

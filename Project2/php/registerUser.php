@@ -97,7 +97,7 @@
                             $image = "";
 
                             echo '<p>Your new account has been successfully created. '
-                                . ' You are now ready to login </p>';
+                                . ' You are now ready to <a href="index.php">login</a> </p>';
                             mysqli_close($dbc);
                             exit();
 
