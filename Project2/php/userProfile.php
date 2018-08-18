@@ -48,6 +48,7 @@
                $photoLocation = $row['photo_location'];
            }
 
+
            error_log("firstName: " . $firstName);
        }
 

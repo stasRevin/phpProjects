@@ -15,6 +15,7 @@
 
       session_start();
       $errorMessage = "";
+      $successMessage = "";
 
       if (session_status() === PHP_SESSION_ACTIVE && isset($_POST['submit']))
       {
@@ -22,6 +23,7 @@
                   or die("Error connection to DB_NAME server.");
 
           $username = $_SESSION['username'];
+          $user_id = $_SESSION['user_id'];
           $exercise_type = $_POST['type'];
           $exercise_date = $_POST['date'];
           $exercise_time = $_POST['time'];
@@ -58,31 +60,37 @@
 
               $caloriesBurned = 0;
 
-              $gender = "m";
-
               if ($gender === "f")
               {
-                  $caloriesBurned  = ((-20.4022 + (0.4472 * $heartRate) - (0.057288 * $weight)
-                    + (0.074 * $age)) / 4.184) * $exercise_time;
+                  $caloriesBurned  = round(((-20.4022 + (0.4472 * $heartRate) - (0.057288 * $weight)
+                    + (0.074 * $age)) / 4.184) * $exercise_time, 0);
 
               }
               elseif ($gender === "m")
               {
-                  $caloriesBurned = ((-55.0969 + (0.6309 * $heartRate) + (0.090174 * $weight)
-                        + (0.2017 * $age)) / 4.184) * $exercise_time;
+                  $caloriesBurned = round(((-55.0969 + (0.6309 * $heartRate) + (0.090174 * $weight)
+                        + (0.2017 * $age)) / 4.184) * $exercise_time, 0);
 
               }
 
+              $query = "INSERT INTO exercise_log (user_id, date, type, time_in_minutes, "
+                      . "heartrate, calories) VALUES ('$user_id', '$exercise_date', "
+                      . "'$exercise_type', '$exercise_time', '$heartRate', '$caloriesBurned')";
 
-              $update =
+              error_log("Exercise log query: " . $query);
 
+              mysqli_query($dbc, $query)
+                    or die("Error querying DB_NAME.");
+
+              $successMessage = "<p>Your exercise has been successfully logged. "
+                      . "You have burned {$caloriesBurned} calories. Add a new exercise!</p>";
+
+              mysqli_close($dbc);
           }
           else
           {
               $errorMessage = "<p>Please complete all the fields of the form.</p>";
           }
-
-
 
       }
 
@@ -131,7 +139,8 @@
       <input name="submit" type="submit" value="LOG EXERCISE">
       </form>
   </div>
-  <?php echo $errorMessage;  ?>
+  <?php if (!empty($errorMessage)) {echo $errorMessage;}  ?>
+  <?php if (!empty($successMessage)) {echo $successMessage;} ?>
 </div>
   </div>
 </body>
