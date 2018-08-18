@@ -11,16 +11,51 @@
   <div class="base">
     <div class="background-image"></div>
     <div class="container">
-  <ul>
-    <li><a href="/java114">Home</a></li>
-    <li><a href="/java114/logExerciseForward">Log Exercise</a></li>
-    <li><a href="/java114/userProfile">View Profile</a></li>
-    <li><a href="/java114/editprofile">Edit Profile</a></li>
-    <li><a href="/java114/logOut">Log Out</a></li>
-</ul>
-  <img class="profileImage" src="${photoPath}" alt="test">
+   <?php
+
+       require_once('menu.html');
+       require_once('connectvars.php');
+
+       session_start();
+
+       $firstName = "";
+       $lastName = "";
+       $gender = "";
+       $username = "";
+       $birthdate = "";
+       $weight = "";
+       $photoLocation = "";
+
+       if (session_status() === PHP_SESSION_ACTIVE)
+       {
+           $dbc = mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD, DB_NAME)
+                    or die("Error connection to DB_NAME server.");
+
+           $username = $_SESSION['username'];
+           $query = "SELECT first_name, last_name, gender, birthdate, weight, photo_location "
+                    . "FROM exercise_user WHERE username = '$username'";
+
+           $data = mysqli_query($dbc, $query);
+
+           if (mysqli_num_rows($data) == 1)
+           {
+               $row = mysqli_fetch_array($data);
+               $firstName = $row['first_name'];
+               $lastName = $row['last_name'];
+               $gender = $row['gender'];
+               $birthdate = $row['birthdate'];
+               $weight = $row['weight'];
+               $photoLocation = $row['photo_location'];
+           }
+
+           error_log("firstName: " . $firstName);
+       }
+
+
+   ?>
+  <img class="profileImage" src="<?php echo $photoLocation; ?>" alt="test">
   <h1>Exercise Tracker</h1>
-  <h4>Hello, ${user.firstName}</h4>
+  <h4>Hello, <?php echo $firstName; ?></h4>
     <c:set var="gender" value="Male"/>
     <c:if test="${user.gender == 'f'}">
       <c:set var="gender" value="Female"/>
@@ -28,27 +63,31 @@
   <table id="userInfo">
     <tr>
       <td>Username:</td>
-      <td>${user.username}</td>
+      <td><?php echo $username; ?></td>
     </tr>
     <tr>
       <td>First name:</td>
-      <td>${user.firstName}</td>
+      <td><?php echo $firstName; ?></td>
     </tr>
     <tr>
       <td>Last name:</td>
-      <td>${user.lastName}</td>
+      <td><?php echo $lastName; ?></td>
     </tr>
     <tr>
       <td>Gender:</td>
-      <td>${gender}</td>
+      <td>
+          <?php $displayGender = $gender == "f" ? "Female" : "Male";
+                echo $displayGender;
+          ?>
+      </td>
     </tr>
     <tr>
       <td>Birthdate:</td>
-      <td>${user.birthdate}</td>
+      <td><?php echo $birthdate; ?></td>
     </tr>
     <tr>
       <td>Weight:</td>
-      <td>${user.weight}</td>
+      <td><?php echo $weight; ?></td>
     </tr>
   </table>
   <br/><br/>

@@ -20,19 +20,27 @@
             $username = mysqli_real_escape_string($dbc, trim($_POST['username']));
             $password = mysqli_real_escape_string($dbc, trim($_POST['password']));
 
-            $query = "SELECT id, username FROM exercise_user WHERE "
+            $query = "SELECT id, username, gender, birthdate, weight FROM exercise_user WHERE "
                     . "username = '$username' AND password = SHA1('$password')";
             $data = mysqli_query($dbc, $query);
 
 
             if (mysqli_num_rows($data) == 1)
             {
+                session_start();
                 $row = mysqli_fetch_array($data);
                 $user_id = $row['id'];
-                session_start();
+                $gender = $row['gender'];
+                $weight = $row['weight'];
+                $birthdate = $row['birthdate'];
                 $_SESSION['username'] = $username;
                 $_SESSION['user_id'] = $user_id;
+                $_SESSION['gender'] = $gender;
+                $_SESSION['birthdate'] = $birthdate;
+                $_SESSION['weight'] = $weight;
                 header('Location: userProfile.php');
+
+                error_log("birthdate on index page: " . $birthdate);
                 exit();
             }
             else

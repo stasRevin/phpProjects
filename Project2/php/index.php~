@@ -8,38 +8,49 @@
 <?php
     require_once('connectvars.php');
 
-    if (!empty($_POST['username']) && !empty($_POST['password']))
+    $willDisplayErrorMessage = false;
+    $errorMessage = "";
+    if (isset($_POST['submit']))
     {
-        $dbc = mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD, DB_NAME)
-                or die("Error connection to DB_NAME server.");
-
-        $username = mysqli_real_escape_string($dbc, trim($_POST['username']));
-        $password = mysqli_real_escape_string($dbc, trim($_POST['password']));
-
-        $query = "SELECT id, username FROM exercise_user WHERE "
-                . "username = '$username' AND password = SHA1('$password')";
-        $data = mysqli_query($dbc, $query);
-        $willDisplayErrorMessage = false;
-
-        if (mysqli_num_rows($data) == 1)
+        if (!empty($_POST['username']) || !empty($_POST['password']))
         {
+            $dbc = mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD, DB_NAME)
+                    or die("Error connection to DB_NAME server.");
 
-            $row = mysqli_fetch_array($data);
-            $user_id = $row['id'];
-            session_start();
-            $_SESSION['username'] = $username;
-            $_SESSION['user_id'] = $user_id;
-            header('Location: userProfile.php');
-            exit();
+            $username = mysqli_real_escape_string($dbc, trim($_POST['username']));
+            $password = mysqli_real_escape_string($dbc, trim($_POST['password']));
+
+            $query = "SELECT id, username FROM exercise_user WHERE "
+                    . "username = '$username' AND password = SHA1('$password')";
+            $data = mysqli_query($dbc, $query);
+
+
+            if (mysqli_num_rows($data) == 1)
+            {
+                $row = mysqli_fetch_array($data);
+                $user_id = $row['id'];
+                session_start();
+                $_SESSION['username'] = $username;
+                $_SESSION['user_id'] = $user_id;
+                header('Location: userProfile.php');
+                exit();
+            }
+            else
+            {
+                $willDisplayErrorMessage = true;
+                $errorMessage = '<p>Please ensure that your username and password are correct. '
+                        . '<br/>If you don\'t have an account, please click on the "Register" '
+                        . ' link below to create a new account.</p>';
+            }
+
         }
-
+        else
+        {
+            $willDisplayErrorMessage = true;
+            $errorMessage = '<p>Please provide your complete username and password or follow '
+                . 'the "Register" link below to create a new account.</p>';
+        }
     }
-    else
-    {
-        $willDisplayErrorMessage = true;
-
-    }
-
 
 ?>
   <div class="base">
@@ -59,14 +70,13 @@
         <label for="password"><b>Password</b></label>
         <input type="password" name="password" placeholder="Password">
         <br/><br/>
-        <button type="submit" class="btn">Login</button>
+        <input type="submit" name="submit" class="btn" value="Login">
 
       </form>
       <?php
             if ($willDisplayErrorMessage)
             {
-                echo '<p>Please provide your complete username and password or follow '
-                . 'the "Register" link below to create a new account</p>';
+                echo $errorMessage;
             }
 
       ?>

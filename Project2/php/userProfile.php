@@ -26,7 +26,7 @@
        $weight = "";
        $photoLocation = "";
 
-       if (session_status() === PHP_SESSION_ACTIVE)
+       if (session_status() == PHP_SESSION_ACTIVE)
        {
            $dbc = mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD, DB_NAME)
                     or die("Error connection to DB_NAME server.");
