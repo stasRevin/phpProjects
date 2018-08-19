@@ -24,7 +24,8 @@
 table#userWorkout {
 
     border-collapse: collapse;
-    width: 100%;
+    width: 80%;
+    margin: 0 auto;
 }
 
 
@@ -165,6 +166,17 @@ li a {
 li a:hover {
 
     background-color: #3399cc;
+}
+
+img#trashCan {
+
+    width: 30%;
+}
+
+.deleteColumn {
+
+    width: 10%;
+
 }
 
 

@@ -25,6 +25,8 @@
        $birthdate = "";
        $weight = "";
        $photoLocation = "";
+       $user_id = "";
+       $exercises = array();
 
        if (session_status() == PHP_SESSION_ACTIVE)
        {
@@ -32,6 +34,7 @@
                     or die("Error connection to DB_NAME server.");
 
            $username = $_SESSION['username'];
+           $user_id = $_SESSION['user_id'];
            $query = "SELECT first_name, last_name, gender, birthdate, weight, photo_location "
                     . "FROM exercise_user WHERE username = '$username'";
 
@@ -48,10 +51,20 @@
                $photoLocation = $row['photo_location'];
            }
 
+           $query = "SELECT date, exercise_id, exercise_name, time_in_minutes, "
+                   . "heartrate, calories FROM exercises_view WHERE user_id = '$user_id'";
 
-           error_log("firstName: " . $firstName);
+
+           $data = mysqli_query($dbc, $query);
+
+           while ($row = mysqli_fetch_array($data))
+           {
+               $exercises[] = $row;
+               error_log("exercise_name: " . $row['exercise_name']);
+
+           }
+
        }
-
 
    ?>
   <img class="profileImage" src="<?php echo $photoLocation; ?>" alt="test">
@@ -99,16 +112,25 @@
       <th>Time in Minutes</th>
       <th>Heart Rate</th>
       <th>Calories Burned</th>
-    </tr>
-    <c:forEach var="item" items="${workoutList.workoutList}">
-      <tr class="userWorkout">
-        <td>${item.date}</td>
-        <td>${item.type}</td>
-        <td>${item.time}</td>
-        <td>${item.heartRate}</td>
-        <td>${item.caloriesBurned}</td>
-      </tr>
-    </c:forEach>
+    <?php
+
+
+        foreach($exercises as $exercise)
+        {
+
+            echo "<tr>";
+            echo "<td>" . $exercise['date'] . "</td>";
+            echo "<td>" . $exercise['exercise_name'] . "</td>";
+            echo "<td>" . $exercise['time_in_minutes'] . "</td>";
+            echo "<td>" . $exercise['heartrate'] . "</td>";
+            echo "<td>" . $exercise['calories'] . "</td>";
+            echo "<td class='deleteColumn'><a href='/php/removeExercise.php?id='" . $exercise['exercise_id'] . "'><img id='trashCan' src='images/trashCan.png' alt='trash can'></a></td>";
+            echo "<tr/>";
+
+        }
+
+
+    ?>
   </table>
 </div>
   </div>
