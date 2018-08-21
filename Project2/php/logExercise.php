@@ -17,7 +17,7 @@
       $errorMessage = "";
       $successMessage = "";
 
-      if (session_status() === PHP_SESSION_ACTIVE && isset($_POST['submit']))
+      if (session_id() === $_SESSION['session_id'] && isset($_POST['submit']))
       {
           $dbc = mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD, DB_NAME)
                   or die("Error connection to DB_NAME server.");

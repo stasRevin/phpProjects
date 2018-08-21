@@ -28,7 +28,7 @@
        $user_id = "";
        $exercises = array();
 
-       if (session_status() == PHP_SESSION_ACTIVE)
+       if (session_id() === $_SESSION['session_id'])
        {
            $dbc = mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD, DB_NAME)
                     or die("Error connection to DB_NAME server.");
@@ -64,16 +64,20 @@
 
            }
 
+           mysqli_close($dbc);
+
+       }
+       else
+       {
+           header('Location: index.php');
+           exit();
        }
 
    ?>
   <img class="profileImage" src="<?php echo $photoLocation; ?>" alt="test">
   <h1>Exercise Tracker</h1>
   <h4>Hello, <?php echo $firstName; ?></h4>
-    <c:set var="gender" value="Male"/>
-    <c:if test="${user.gender == 'f'}">
-      <c:set var="gender" value="Female"/>
-    </c:if>
+
   <table id="userInfo">
     <tr>
       <td>Username:</td>
@@ -124,7 +128,7 @@
             echo "<td>" . $exercise['time_in_minutes'] . "</td>";
             echo "<td>" . $exercise['heartrate'] . "</td>";
             echo "<td>" . $exercise['calories'] . "</td>";
-            echo "<td class='deleteColumn'><a href='/php/removeExercise.php?id='" . $exercise['exercise_id'] . "'><img id='trashCan' src='images/trashCan.png' alt='trash can'></a></td>";
+            echo "<td class='deleteColumn'><a href='/php/removeExercise.php?id=" . $exercise['exercise_id'] . "'><img id='trashCan' src='images/trashCan.png' alt='trash can'></a></td>";
             echo "<tr/>";
 
         }
