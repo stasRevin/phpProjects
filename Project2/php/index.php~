@@ -23,7 +23,7 @@
             $query = "SELECT id, username, gender, birthdate, weight FROM exercise_user WHERE "
                     . "username = '$username' AND password = SHA1('$password')";
             $data = mysqli_query($dbc, $query);
-
+            mysqli_close($dbc);
 
             if (mysqli_num_rows($data) == 1)
             {
@@ -38,6 +38,7 @@
                 $_SESSION['gender'] = $gender;
                 $_SESSION['birthdate'] = $birthdate;
                 $_SESSION['weight'] = $weight;
+                $_SESSION['session_id'] = session_id();
                 header('Location: userProfile.php');
 
                 error_log("birthdate on index page: " . $birthdate);

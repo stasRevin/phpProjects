@@ -25,7 +25,7 @@
             $data = mysqli_query($dbc, $query);
             mysqli_close($dbc);
 
-            if (mysqli_num_rows($data) == 1)
+            if (mysqli_num_rows($data) === 1)
             {
                 session_start();
                 $row = mysqli_fetch_array($data);
